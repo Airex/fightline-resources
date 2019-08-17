@@ -1,343 +1,358 @@
 [
-      {
-        id: 1,
-        name: "The Eternity Vault",
-        frozen: false,
-        brackets: {
-          min: 5
-        },
-        encounters: [
-          {
-            id: 1,
-            name: "Annihilation Droid XRR-3"
-          },
-          {
-            id: 2,
-            name: "Gharj"
-          },
-          {
-            id: 3,
-            name: "Ancient Pylons"
-          },
-          {
-            id: 4,
-            name: "Infernal Council"
-          },
-          {
-            id: 5,
-            name: "Soa"
-          }
-
-        ]
+   {
+      "id": 1,
+      "name": "The Eternity Vault",
+      "frozen": false,
+      "brackets": {
+         "min": 5
       },
-      {
-        id: 2,
-        name: "Karagga's Palace",
-        frozen: false,
-        brackets: { min: 5 },
-        encounters: [
-          {
-            id: 10,
-            name: "Bonethrasher"
-          },
-          {
-            id: 11,
-            name: "Jarg and Sorno"
-          },
-          {
-            id: 12,
-            name: "Foreman Crusher"
-          },
-          {
-            id: 13,
-            name: "G4-B3 Heavy Fabricator"
-          },
-          {
-            id: 14,
-            name: "Karagga the Unyielding"
-          },
-        ]
+      "encounters": [
+         {
+            "id": 1,
+            "name": "Annihilation Droid XRR-3"
+         },
+         {
+            "id": 2,
+            "name": "Gharj"
+         },
+         {
+            "id": 3,
+            "name": "Ancient Pylons"
+         },
+         {
+            "id": 4,
+            "name": "Infernal Council"
+         },
+         {
+            "id": 5,
+            "name": "Soa"
+         }
+      ]
+   },
+   {
+      "id": 2,
+      "name": "Karagga's Palace",
+      "frozen": false,
+      "brackets": {
+         "min": 5
       },
-      {
-        id: 3,
-        name: "Explosive Conflict",
-        frozen: false,
-        brackets: {
-          min: 5
-        },
-        encounters: [
-          {
-            id: 20,
-            name: "Toth and Zorn"
-          },
-          {
-            id: 21,
-            name: "Firebrand and Stormcaller"
-          },
-          {
-            id: 22,
-            name: "General Vorgath"
-          },
-          {
-            id: 23,
-            name: "Warlord Kephess"
-          }
-        ]
+      "encounters": [
+         {
+            "id": 10,
+            "name": "Bonethrasher"
+         },
+         {
+            "id": 11,
+            "name": "Jarg and Sorno"
+         },
+         {
+            "id": 12,
+            "name": "Foreman Crusher"
+         },
+         {
+            "id": 13,
+            "name": "G4-B3 Heavy Fabricator"
+         },
+         {
+            "id": 14,
+            "name": "Karagga the Unyielding"
+         }
+      ]
+   },
+   {
+      "id": 3,
+      "name": "Explosive Conflict",
+      "frozen": false,
+      "brackets": {
+         "min": 5
       },
-      {
-        id: 4,
-        name: "Dxun",
-        frozen: false,
-        brackets: {
-          min: 5
-        },
-        encounters: [
-          {
-            id: 31,
-            name: "The Pack Leader"
-          },
-          {
-            id: 32,
-            name: "Breaching CI-004"
-          },
-          {
-            id: 33,
-            name: "Containment Protocol"
-          },
-          {
-            id: 34,
-            name: "The Huntmaster"
-          },
-          {
-            id: 35,
-            name: "The Apex Vanguard"
-          }
-        ]
+      "encounters": [
+         {
+            "id": 20,
+            "name": "Toth and Zorn"
+         },
+         {
+            "id": 21,
+            "name": "Firebrand and Stormcaller"
+         },
+         {
+            "id": 22,
+            "name": "General Vorgath"
+         },
+         {
+            "id": 23,
+            "name": "Warlord Kephess"
+         }
+      ]
+   },
+   {
+      "id": 4,
+      "name": "Dxun",
+      "frozen": false,
+      "brackets": {
+         "min": 5
       },
-      {
-        id: 5,
-        name: "Valley of the Machine Gods",
-        frozen: false,
-        brackets: {
-          min: 5
-        },
-        encounters: [
-          {
-            id: 41,
-            name: "Tyth"
-          },
-          {
-            id: 42,
-            name: "Aivela and Esne"
-          },
-          {
-            id: 43,
-            name: "Nahut"
-          },
-          {
-            id: 44,
-            name: "Scyva"
-          },
-          {
-            id: 45,
-            name: "Izax"
-          }
-        ]
+      "encounters": [
+         {
+            "id": 31,
+            "name": "The Pack Leader"
+         },
+         {
+            "id": 32,
+            "name": "Breaching CI-004"
+         },
+         {
+            "id": 33,
+            "name": "Containment Protocol"
+         },
+         {
+            "id": 34,
+            "name": "The Huntmaster"
+         },
+         {
+            "id": 35,
+            "name": "The Apex Vanguard"
+         }
+      ]
+   },
+   {
+      "id": 5,
+      "name": "Valley of the Machine Gods",
+      "frozen": false,
+      "brackets": {
+         "min": 5
       },
-      {
-        id: 6,
-        name: "Dread Fortress",
-        frozen: false,
-        brackets: {
-          min: 5
-        },
-        encounters: [
-          {
-            id: 51,
-            name: "Nefra"
-          },
-          {
-            id: 52,
-            name: "Commander Draxus"
-          },
-          {
-            id: 53,
-            name: "Grob'Thok"
-          },
-          {
-            id: 54,
-            name: "Corruptor Zero"
-          },
-          {
-            id: 55,
-            name: "Dread Master Brontes"
-          }
-        ]
+      "encounters": [
+         {
+            "id": 41,
+            "name": "Tyth"
+         },
+         {
+            "id": 42,
+            "name": "Aivela and Esne"
+         },
+         {
+            "id": 43,
+            "name": "Nahut"
+         },
+         {
+            "id": 44,
+            "name": "Scyva"
+         },
+         {
+            "id": 45,
+            "name": "Izax"
+         }
+      ]
+   },
+   {
+      "id": 6,
+      "name": "Dread Fortress",
+      "frozen": false,
+      "brackets": {
+         "min": 5
       },
-      {
-        id: 7,
-        name: "Dread Palace",
-        frozen: false,
-        brackets: {
-          min: 5
-        },
-        encounters: [
-          {
-            id: 61,
-            name: "Dread Master Bestia"
-          },
-          {
-            id: 62,
-            name: "Dread Master Tyrans"
-          },
-          {
-            id: 63,
-            name: "Dread Master Calphayus"
-          },
-          {
-            id: 64,
-            name: "Dread Master Raptus"
-          },
-          {
-            id: 65,
-            name: "Dread Council"
-          }
-        ]
+      "encounters": [
+         {
+            "id": 51,
+            "name": "Nefra"
+         },
+         {
+            "id": 52,
+            "name": "Commander Draxus"
+         },
+         {
+            "id": 53,
+            "name": "Grob'Thok"
+         },
+         {
+            "id": 54,
+            "name": "Corruptor Zero"
+         },
+         {
+            "id": 55,
+            "name": "Dread Master Brontes"
+         }
+      ]
+   },
+   {
+      "id": 7,
+      "name": "Dread Palace",
+      "frozen": false,
+      "brackets": {
+         "min": 5
       },
-      {
-        id: 8,
-        name: "Terror From Beyond",
-        frozen: false,
-        brackets: {
-          min: 5
-        },
-        encounters: [
-          {
-            id: 71,
-            name: "The Withering Horror"
-          },
-          {
-            id: 72,
-            name: "Dread Guards"
-          },
-          {
-            id: 73,
-            name: "Operator IX"
-          },
-          {
-            id: 74,
-            name: "Kephess the Undying"
-          },
-          {
-            id: 75,
-            name: "The Terror from Beyond"
-          },{
-            id: 76,
-            name: "Dreadful Entity (Secret)"
-          },
-        ]
+      "encounters": [
+         {
+            "id": 61,
+            "name": "Dread Master Bestia"
+         },
+         {
+            "id": 62,
+            "name": "Dread Master Tyrans"
+         },
+         {
+            "id": 63,
+            "name": "Dread Master Calphayus"
+         },
+         {
+            "id": 64,
+            "name": "Dread Master Raptus"
+         },
+         {
+            "id": 65,
+            "name": "Dread Council"
+         }
+      ]
+   },
+   {
+      "id": 8,
+      "name": "Terror From Beyond",
+      "frozen": false,
+      "brackets": {
+         "min": 5
       },
-      {
-        id: 9,
-        name: "Scum and Villainy",
-        frozen: false,
-        brackets: {
-          min: 5
-        },
-        encounters: [
-          {
-            id: 81,
-            name: "Dash'roode"
-          }, {
-            id: 82,
-            name: "Titan 6"
-          }, {
-            id: 83,
-            name: "Hateful Entity (Secret)"
-          }, {
-            id: 84,
-            name: "Thrasher"
-          }, {
-            id: 85,
-            name: "Operations Chief"
-          }, {
-            id: 86,
-            name: "Olok the Shadow"
-          }, {
-            id: 87,
-            name: "Cartel Warlords"
-          }, {
-            id: 88,
-            name: "Dread Master Styrak"
-          },
-        ]
+      "encounters": [
+         {
+            "id": 71,
+            "name": "The Withering Horror"
+         },
+         {
+            "id": 72,
+            "name": "Dread Guards"
+         },
+         {
+            "id": 73,
+            "name": "Operator IX"
+         },
+         {
+            "id": 74,
+            "name": "Kephess the Undying"
+         },
+         {
+            "id": 75,
+            "name": "The Terror from Beyond"
+         },
+         {
+            "id": 76,
+            "name": "Dreadful Entity (Secret)"
+         }
+      ]
+   },
+   {
+      "id": 9,
+      "name": "Scum and Villainy",
+      "frozen": false,
+      "brackets": {
+         "min": 5
       },
-      {
-        id: 10,
-        name: "Ravagers",
-        frozen: false,
-        brackets: {
-          min: 5
-        },
-        encounters: [
-          {
-            id: 91,
-            name: "Sparky"
-          }, {
-            id: 92,
-            name: "Quartermaster Bulo"
-          }, {
-            id: 93,
-            name: "Torque"
-          }, {
-            id: 94,
-            name: "Master and Blaster"
-          },
-          {
-            id: 95,
-            name: "Coratanni"
-          }
-        ]
+      "encounters": [
+         {
+            "id": 81,
+            "name": "Dash'roode"
+         },
+         {
+            "id": 82,
+            "name": "Titan 6"
+         },
+         {
+            "id": 83,
+            "name": "Hateful Entity (Secret)"
+         },
+         {
+            "id": 84,
+            "name": "Thrasher"
+         },
+         {
+            "id": 85,
+            "name": "Operations Chief"
+         },
+         {
+            "id": 86,
+            "name": "Olok the Shadow"
+         },
+         {
+            "id": 87,
+            "name": "Cartel Warlords"
+         },
+         {
+            "id": 88,
+            "name": "Dread Master Styrak"
+         }
+      ]
+   },
+   {
+      "id": 10,
+      "name": "Ravagers",
+      "frozen": false,
+      "brackets": {
+         "min": 5
       },
-      {
-        id: 11,
-        name: "Temple of Sacrifice",
-        frozen: false,
-        brackets: {
-          min: 5
-        },
-        encounters: [
-          {
-            id: 101,
-            name: "Malaphar the Savage"
-          }, {
-            id: 102,
-            name: "Sword Squadron Unit"
-          }, {
-            id: 103,
-            name: "The Underlurker"
-          }, {
-            id: 104,
-            name: "Revanite Commanders"
-          }, {
-            id: 105,
-            name: "Revan"
-          },
-        ]
+      "encounters": [
+         {
+            "id": 91,
+            "name": "Sparky"
+         },
+         {
+            "id": 92,
+            "name": "Quartermaster Bulo"
+         },
+         {
+            "id": 93,
+            "name": "Torque"
+         },
+         {
+            "id": 94,
+            "name": "Master and Blaster"
+         },
+         {
+            "id": 95,
+            "name": "Coratanni"
+         }
+      ]
+   },
+   {
+      "id": 11,
+      "name": "Temple of Sacrifice",
+      "frozen": false,
+      "brackets": {
+         "min": 5
       },
-      {
-        id: 12,
-        name: "Instanced Bosses",
-        frozen: false,
-        brackets: {
-          min: 5
-        },
-        encounters: [
-          {
-            id: 111,
-            name: "Colossal Monolith"
-          }
-        ]
+      "encounters": [
+         {
+            "id": 101,
+            "name": "Malaphar the Savage"
+         },
+         {
+            "id": 102,
+            "name": "Sword Squadron Unit"
+         },
+         {
+            "id": 103,
+            "name": "The Underlurker"
+         },
+         {
+            "id": 104,
+            "name": "Revanite Commanders"
+         },
+         {
+            "id": 105,
+            "name": "Revan"
+         }
+      ]
+   },
+   {
+      "id": 12,
+      "name": "Instanced Bosses",
+      "frozen": false,
+      "brackets": {
+         "min": 5
       },
-
-    ]
+      "encounters": [
+         {
+            "id": 111,
+            "name": "Colossal Monolith"
+         }
+      ]
+   }
+]
