@@ -162,5 +162,13 @@
       "items": [
          "TeamWork is deprecated now and integrated into editor by default. You can now share link of saved project and openning of this link automatically enables TeamWork."
       ]
+   },
+    {
+      "revision": 26,
+      "date": "8/23/2019",
+      "items": [
+         "Small fixes",
+         "Dancer new abilities"
+      ]
    }
 ]
