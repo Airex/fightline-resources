@@ -170,5 +170,11 @@
          "Small fixes",
          "Dancer new abilities"
       ]
+   },
+     {
+      "revision": 27,
+      "date": "8/25/2019",
+      "items": [
+         "Added support for fractions in SWTOR. Now need info for Republic classes and abilities"      ]
    }
 ]
