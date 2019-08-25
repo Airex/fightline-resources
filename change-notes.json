@@ -172,9 +172,11 @@
       ]
    },
      {
-      "revision": 27,
+      "revision": 28,
       "date": "8/25/2019",
       "items": [
-         "Added support for fractions in SWTOR. Now need info for Republic classes and abilities"      ]
+         "Added support for fractions in SWTOR. Now need info for Republic classes and abilities",
+         "Fixed duration on medicine. Pull request from Makar8000."
+      ]
    }
 ]
