@@ -180,10 +180,11 @@
       ]
    },
     {
-      "revision": 29,
+      "revision": 30,
       "date": "8/29/2019",
       "items": [
-         "Added Colorful Durations in View menu. Designed to show type of ability duration with color and better identify it"
+         "Added Colorful Durations in View menu. Designed to show type of ability duration with color and better identify it",
+         "If you do not like my colors, open Settings and set colors you like more."
       ]
    }
 ]
