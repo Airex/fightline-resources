@@ -186,5 +186,15 @@
          "Added Colorful Durations in View menu. Designed to show type of ability duration with color and better identify it",
          "If you do not like my colors, open Settings and set colors you like more."
       ]
+   },
+    {
+      "revision": 31,
+      "date": "9/11/2019",
+      "items": [
+         "Fixed medicine import from fflogs",
+         "Fixed filters",
+         "Updates to some actions",
+         "Fixed import from Boss Templates. Now you can import fight from fflogs and then import predefined boss attacks from Boss Templates menu"
+      ]
    }
 ]
