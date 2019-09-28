@@ -196,5 +196,12 @@
          "Updates to some actions",
          "Fixed import from Boss Templates. Now you can import fight from fflogs and then import predefined boss attacks from Boss Templates menu"
       ]
+   },
+    {
+      "revision": 32,
+      "date": "9/29/2019",
+      "items": [
+         "Now you can setup your ingame character in Settings/FFLogs. After character is configured system will show your latest parses in 'Import from FFLogs' dialog."
+      ]
    }
 ]
