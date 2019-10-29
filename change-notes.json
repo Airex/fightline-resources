@@ -203,5 +203,12 @@
       "items": [
          "Now you can setup your ingame character in Settings/FFLogs. After character is configured system will show your latest parses in 'Import from FFLogs' dialog."
       ]
+   },
+    {
+      "revision": 33,
+      "date": "10/29/2019",
+      "items": [
+         "5.1 changes"
+      ]
    }
 ]
