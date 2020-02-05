@@ -210,5 +210,12 @@
       "items": [
          "5.1 changes"
       ]
+   },
+     {
+      "revision": 34,
+      "date": "02/05/2020",
+      "items": [
+         "Fixed 'Import from FFLogs' dialog did not recognize links without enounter id"
+      ]
    }
 ]
