@@ -217,5 +217,13 @@
       "items": [
          "Fixed 'Import from FFLogs' dialog did not recognize links without enounter id"
       ]
+   },
+   {
+      "revision": 35,
+      "date": "06/05/2020",
+      "items": [
+         "Upgrade to the latest versions of Angular, NG-ZORRO and Vis. Some issues are possible.",
+         "Completely removed context menus. Actions are available in side panel. Job, Job Abilities and Downtimes are now selectable."
+      ]
    }
 ]
