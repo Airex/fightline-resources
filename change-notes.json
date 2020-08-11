@@ -225,5 +225,12 @@
          "Upgrade to the latest versions of Angular, NG-ZORRO and Vis. Some issues are possible.",
          "Completely removed context menus. Actions are available in side panel. Job, Job Abilities and Downtimes are now selectable."
       ]
+   },
+    {
+      "revision": 36,
+      "date": "11/08/2020",
+      "items": [
+         "5.3"
+      ]
    }
 ]
