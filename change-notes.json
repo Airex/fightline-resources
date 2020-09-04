@@ -232,5 +232,17 @@
       "items": [
          "5.3"
       ]
+   },
+   {
+      "revision": 37,
+      "date": "04/09/2020",
+      "items": [
+         "Tags for Boss Attack. One can assign custom tags to Boss Attack",
+         "Source for Boss Attack. You can assign source of attack to Boss Attack",
+         "Brand new Filter menu with support for filtering Boss Attacks by Tags and Source",
+         "Side panel for Boss Attack now shows Available Defensive Abilities",
+         "New menu Item 'Open as Table'. Opens current fight as table view with predefined templates.",
+         "Ma-a-any small fixes"
+      ]
    }
 ]
