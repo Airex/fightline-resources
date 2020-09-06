@@ -244,5 +244,12 @@
          "New menu Item 'Open as Table'. Opens current fight as table view with predefined templates.",
          "Ma-a-any small fixes"
       ]
+   },
+    {
+      "revision": 38,
+      "date": "06/09/2020",
+      "items": [
+         "Small rework of Recent Activities on home page: added pin and remove actions to list"
+      ]
    }
 ]
