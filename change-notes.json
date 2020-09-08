@@ -251,5 +251,12 @@
       "items": [
          "Small rework of Recent Activities on home page: added pin and remove actions to list"
       ]
+   },
+   {
+      "revision": 39,
+      "date": "08/09/2020",
+      "items": [
+         "Copy & Paste for multiple attacks"
+      ]
    }
 ]
