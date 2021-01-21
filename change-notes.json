@@ -258,5 +258,14 @@
       "items": [
          "Copy & Paste for multiple attacks"
       ]
+   },
+   {
+      "revision": 40,
+      "date": "01/22/2021",
+      "items": [
+         "Fixed issues with reopening URLs for created and inported from FFLogs timelines",
+         "Fixed Time column filter in table view",
+         "Fixed sort order of recent activities on Home screen"
+      ]
    }
 ]
